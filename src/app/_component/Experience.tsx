@@ -29,7 +29,6 @@ function Experience() {
                 • Reduced medication errors by 35% through implementation of
                 safety protocols
               </li>
-              <li>• Mentor pharmacist acids and sale staff</li>
             </ul>
           </div>
 
