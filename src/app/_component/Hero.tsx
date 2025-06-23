@@ -18,7 +18,7 @@ function Hero() {
             Mrs. Aye Mya Phyu Sin
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
-            Clinical Pharmacist & Medication Therapy Management Specialist
+            Clinical Pharmacist 
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a

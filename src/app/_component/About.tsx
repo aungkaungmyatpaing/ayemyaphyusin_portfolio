@@ -36,7 +36,7 @@ function About() {
               <div className="w-80 h-80 rounded-3xl overflow-hidden shadow-2xl transform rotate-3 hover:rotate-0 transition-transform duration-500">
                 <img
                   src="/about.jpeg"
-                  alt="Dr. Sarah Chen in professional setting"
+                  alt="Aye Mya Phyu Sin - Pharmacist"
                   className="w-full h-full object-cover"
                 />
               </div>
