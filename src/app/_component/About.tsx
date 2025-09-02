@@ -9,18 +9,26 @@ function About() {
           <div className="order-2 md:order-1">
             <div className="glass-effect rounded-3xl p-8 card-hover">
               <h3 className="text-2xl font-semibold text-gray-800 mb-4">
-                Professional Excellence
+                Information
               </h3>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                With over 3 years of experience in clinical pharmacy, I
-                specialize in medication therapy management, patient counseling,
-                and pharmaceutical care optimization. My passion lies in
-                improving patient outcomes through evidence-based pharmaceutical
-                interventions.
+                BOD - 21 July, 2000
+              </p>
+              <p className="text-gray-600 mb-6 leading-relaxed">
+                Nationality - Chin/Myanmar
+              </p>
+              <p className="text-gray-600 mb-6 leading-relaxed">
+                Nationality - Chin/Myanmar
+              </p>
+              <p className="text-gray-600 mb-6 leading-relaxed">
+                Race - Buddha
+              </p>
+              <p className="text-gray-600 mb-6 leading-relaxed">
+                Address - No.994,Pho Yazar (1)street,(43)ward,North Dagon,Ygn.
               </p>
               <div className="flex flex-wrap gap-2">
                 <span className="px-3 py-1 bg-pink-100 text-pink-700 rounded-full text-sm">
-                  PharmD
+                  NRC - 12 / DaGaMa(N) 050958
                 </span>
                 {/* <span className="px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-sm">
                   BCPS
@@ -48,7 +56,7 @@ function About() {
             </div>
           </div>
         </div>
-        <div className="mt-12 space-y-6">
+        {/* <div className="mt-12 space-y-6">
           <div className="grid md:grid-cols-2 gap-6">
             <div className="glass-effect rounded-xl p-6 card-hover">
               <div className="flex items-center mb-3">
@@ -90,7 +98,7 @@ function About() {
               </p>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );

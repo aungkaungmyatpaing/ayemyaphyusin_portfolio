@@ -32,7 +32,7 @@ function Experience() {
             </ul>
           </div>
 
-          <div className="glass-effect rounded-2xl p-8 card-hover">
+          {/* <div className="glass-effect rounded-2xl p-8 card-hover">
             <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
               <div>
                 <h3 className="text-xl font-semibold text-gray-800">
@@ -56,7 +56,7 @@ function Experience() {
               </li>
               <li>• Monitor market trends and report feedback</li>
             </ul>
-          </div>
+          </div> */}
 
           <div className="glass-effect rounded-2xl p-8 card-hover">
             <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
